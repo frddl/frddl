@@ -8,4 +8,4 @@ On the side I run **[ThirteenTabs](https://thirteentabs.com)**, a small studio b
 
 **Mostly writing:** PHP · Laravel · Filament · Go · Vue / Nuxt · MySQL · Redis · Docker
 
-**Elsewhere:** [mmdv.dev](https://mmdv.dev) · [X](https://x.com/FaridCodes) · [LinkedIn](https://linkedin.com/in/faridmmmdv) · farid@mmdv.dev
+**Elsewhere:** [mmdv.dev](https://mmdv.dev) · [Twitter](https://x.com/FaridCodes) · [LinkedIn](https://linkedin.com/in/faridmmmdv) · farid@mmdv.dev
